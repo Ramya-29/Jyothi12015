@@ -1,0 +1,156 @@
+body{
+    overflow: visible;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.outline{
+    padding: 20px;
+    margin-left: 50px;
+    width: 100%;
+
+}
+header{
+    height: 60px;
+    background-color: black;
+    display: inline-block;
+    width: 80%;
+}
+.wrapper2{
+    color:black;
+    font-size: larger;
+}
+.about{
+    font-size: larger;
+    color: white;
+
+}
+.graphic{
+    font-size: small;
+    color: white;
+}
+.codinza{
+    width: 30%;
+    float: left;
+    line-height: 60px;
+}
+.your{
+    font-size: larger;
+    color: white;
+}
+.imag1{
+    margin-top: 55px;
+    padding: 0px;
+}
+a{
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+nav{
+    width: 50%;
+    float: right;
+    color: white;
+    font-size: small;
+    line-height: 60px;
+}
+.block1{
+    text-align: center;
+    background-color:#33ffad;
+    top:60px;
+    display: inline-block;
+    height: 350px;
+    width: 80%;
+}
+img{
+    padding: 4px;
+}
+.block2{
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    margin-top: 20px;
+    height: 380px;
+    width: 80%;
+}
+.about{
+    text-align: center;
+    background-color: green;
+    height: 90px;
+    width: 80%;
+    padding-top: 20px;
+}
+.one{
+    margin-left: 0px;
+}
+.move{
+    padding-left:60px ;
+}
+.block3{
+    width: 80%;
+    color: white;
+    font-size: small;
+    height: 150px;
+    background-color: green;
+}
+.column2{
+    width: 50%;
+    height: 150px;
+
+    color: white;
+    font-size: small;
+    background-color: green;
+    display: inline-block;
+}
+.contactme{
+    text-align: center;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 35%;
+    font-size: large;
+    margin-bottom: 0%;
+    display: inline-block;
+}
+.block4{
+    height: 100px;
+    margin-top: 40px;
+}
+.col-1{
+    height: 0px;
+}
+.col-11{
+    margin-left: 80px;
+    color: black;
+    height: 200px;
+    display: inline-block;
+}
+.contact div{
+    padding: 20px;
+    margin-left: 50px;
+}
+button{
+    margin-left: 210px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+}
+.footer1{
+    text-align: center;
+    font-size: smaller;
+    height:120px;
+    width:80%;
+    color: white;
+    padding-left: 30px;
+    display: inline-block;
+    background-color: rgb(0, 51, 51);
+}
+
+.footer2{
+    background-color: black;
+    color:white;
+    width: 80%;
+    background-color: rgb(47,79,79);
+    text-align: center;
+    font-size: smaller;
+}
+
