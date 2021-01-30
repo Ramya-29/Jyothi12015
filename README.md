@@ -1,8 +1,8 @@
 # ML-level1-project
 
 ## Team Members: 
-### 18pa1a05c2
-### 18pa1a05f8
+### 18PA1A05C2
+### 18PA1A05F8
 
 ## Game : 
 This is an machine learning game in which can play but giving voice as input.
